@@ -1,1 +1,1 @@
-%md A stock analysis framework
+A stock analysis framework
